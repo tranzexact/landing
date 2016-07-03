@@ -6,4 +6,4 @@ title: Purchasing Services<br>Transactional and Strategic Sourcing
 description: |
 ---
 End-to-end support for all your purchasing activities from Vendor Management, Strategic Sourcing,
-Purchase Order Creation, Expediting, and Accounts Reconciliation!
+Purchase Order Creation, Expediting, to Accounts Reconciliation!

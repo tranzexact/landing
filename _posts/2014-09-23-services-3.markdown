@@ -1,8 +1,9 @@
 ---
 layout: default
-img: phones.png
+img: purchasing.jpg
 category: Services
-title: Google Web Fonts and<br>Font Awesome Icons
+title: Purchasing Services<br>Transactional and Strategic Sourcing
 description: |
 ---
-This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
+End-to-end support for all your purchasing activities from Vendor Management, Strategic Sourcing,
+Purchase Order Creation, Expediting, and Accounts Reconciliation!

@@ -1,8 +1,9 @@
 ---
 layout: default
-img: ipad.png
+img: call-center.jpg
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: 24-Hour Virtual Front and Back<br>Office Services
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+  Providing your business with a low-cost around-the-clock support
+  in English and Chinese through live chat and voice call interface so you can focus on strategic work!
